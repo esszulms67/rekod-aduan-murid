@@ -1,0 +1,17 @@
+REKOD ADUAN MURID SKBJ - PAKEJ APLIKASI
+
+KANDUNGAN
+- index.html: aplikasi
+- manifest.webmanifest: maklumat pemasangan
+- ikon-skbj.svg: ikon khas aplikasi
+- sw.js: sokongan penggunaan luar talian selepas dibuka sekurang-kurangnya sekali
+
+PENTING
+Untuk pemasangan sebagai aplikasi dengan ikon pada Android, iPhone dan komputer, fail ini perlu diterbitkan pada alamat HTTPS (contohnya GitHub Pages). Membuka fail HTML terus daripada folder tidak membolehkan pemasangan PWA penuh.
+
+Selepas diterbitkan:
+Android/Chrome: buka pautan, pilih Pasang aplikasi atau menu > Pasang aplikasi.
+iPhone/Safari: buka pautan, Kongsi > Tambah ke Skrin Utama.
+Komputer/Chrome atau Edge: buka pautan, pilih ikon Pasang pada bar alamat atau menu.
+
+Data sedia ada disimpan setempat dalam pelayar. Sandarkan data sebelum memadam data pelayar atau menukar peranti. Penyegerakan Google Sheets memerlukan skrip awan yang dikonfigurasi secara berasingan.
